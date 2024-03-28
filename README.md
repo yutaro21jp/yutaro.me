@@ -1,2 +1,2 @@
-<p>bitcoin | I am Japanese | Live in Thailand 🤙</p>
-<p>LN yutaro@walletofsatoshi.com⚡️</p>
+bitcoin | I am Japanese | Live in Thailand 🤙</br>
+LN yutaro@walletofsatoshi.com⚡️
